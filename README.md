@@ -1,2 +1,2 @@
-# dualsense-sockets
-Project to try communicating with my Playstation DS2 controller.
+# dualsense-pipes
+Communication with a dualsense for interprocess functionality
